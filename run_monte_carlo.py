@@ -1,4 +1,4 @@
-from 
+from monte_carlo_funcs import create_strings, select_ends, tie_ends
 
 # Run the Monte Carlo
 list_of_circles = []
